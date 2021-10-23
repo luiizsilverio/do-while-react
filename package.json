@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "react-heat",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
